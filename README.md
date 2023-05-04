@@ -6,4 +6,4 @@ This code is associated to the study "Event-related potentials during the Ultima
 
 The code implements General Linear Mixed Models to analyze trial-level modulations of Event-Related Potentials, by including the factors of group, fairness and trial.
 
-DOI:
+DOI: https://doi.org/10.1111/psyp.14319
